@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=Hi%20I'm%20Ansh%20🚀&fontSize=70&animation=fadeIn" />
-</div>
+![Ansh's Banner](https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=Hi%20I'm%20Ansh%20🚀&fontSize=70&animation=fadeIn)
 
 ## 🚀 About Me
 I am a second-year **B.Tech Computer Science (AIML)**. I am passionate about web development, backend development, data structures, and the stock market.
