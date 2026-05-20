@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=Hi%20I'm%20Ansh%20🚀&fontSize=70&animation=fadeIn" alt="Ansh's Profile Banner" />
+  <img src="github-header-banner.png" alt="Ansh's Profile Banner" />
 </p>
 
 <br />
