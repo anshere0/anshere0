@@ -1,83 +1,21 @@
-<div align="center">
-  <img src="github-header-banner.png" alt="Ansh Arora Banner" width="100%" />
+# 💫 About Me:
+- 🔭 I'm currently working on **LikhAI**, an AI-powered handwriting generation platform, and **GridGuard AI**, an intelligent incident investigation & Root Cause Analysis platform.<br><br>- 🤝 I'm looking to collaborate on **AI applications, Full-Stack Development, RAG systems, developer tools, and open-source projects.**<br><br>- 🌱 I'm currently learning **System Design, Distributed Systems, AI Agents, Kubernetes, Cloud Infrastructure, and scalable backend engineering.**<br><br>- 💬 Ask me about **Artificial Intelligence, Machine Learning, RAG, Next.js, React, Node.js, Python, PostgreSQL, Docker, and building production-ready software.**<br><br>- 🌐 Portfolio: **https://portfolio-orcin-rho-92.vercel.app/**<br><br>- 📄 Resume: **https://github.com/anshere0/resume/raw/main/Ansh_Arora_Resume.pdf**<br><br>- 📫 Reach me at **ansharora19102006@gmail.com**<br><br>- ⚡ Fun fact: **I enjoy building production-ready AI products that solve real-world problems—from developer tools and AI SaaS platforms to intelligent automation systems.**
 
-  <h3>AI Engineer • Full-Stack Developer • Machine Learning Enthusiast</h3>
 
-  <p>
-    <a href="mailto:ansharora19102006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://www.linkedin.com/in/ansh-arora-97490431b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/anshere0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-    <img src="https://komarev.com/ghpvc/?username=anshere0&style=flat-square&color=0e75b6" alt="Profile Views">
-  </p>
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ansh-arora0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansharora19102006@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=flat&logo=openapiinitiative&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anshere0&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=anshere0&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshere0&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 👨‍💻 About Me
-
-I am a B.Tech Computer Science Engineering undergraduate specializing in **Artificial Intelligence & Machine Learning** at **Vellore Institute of Technology, Bhopal** (2024 – 2028)[cite: 1, 2]. 
-
-I enjoy building production-ready AI products that combine modern software engineering with machine learning. My work spans full-stack web applications, retrieval-augmented generation (RAG) systems, developer tools, and data-driven architectures[cite: 1, 2]. I focus on writing clean, scalable software while continuously improving my understanding of system design, backend architecture, and distributed systems.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=anshere0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💼 Experience
-
-*   **Machine Learning Engineering Intern** at *FlyRank AI* (Jul 2026 – Aug 2026): Contributing to AI/ML model development, data pipelines, and production machine learning features[cite: 1, 2].
-*   **Web Developer Intern** at *Webyou Technologies* (May 2026 – Jul 2026): Built responsive web applications and supported senior developers in implementing frontend and backend features[cite: 1, 2].
-*   **Artificial Intelligence Intern** at *Navodita Infotech* (May 2025 – Jun 2025): Worked on AI-driven tasks involving data handling, model exploration, and applied machine learning[cite: 1, 2].
-*   **Writer & Content Creator** at *Kraaft Entertainment* (Jan 2025 – Present): Produced technical and non-technical content for digital platforms[cite: 1, 2].
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Enterprise AI & RAG Platforms
-*   **RAGForge:** A multi-tenant RAG SaaS platform enabling businesses to deploy branded AI chatbots grounded in their own documents (PDF/DOCX/TXT) using pgvector and the Gemini API[cite: 1, 2].
-*   **RCA Copilot:** An AI-powered incident investigation platform that generates structured Root Cause Analysis reports in under 30 seconds from raw logs and descriptions, featuring blast radius analysis[cite: 1, 2].
-
-### ⚙️ Developer Tools & Automation
-*   **CI/CD AI Pipeline:** An intelligent CI/CD system that captures GitHub webhook failures, generates auto-fixes using Gemini API, tests them in Docker, and automatically opens Pull Requests[cite: 1, 2].
-*   **StackSensei:** An AI codebase analysis platform supporting natural language prompts, file uploads, and direct GitHub URLs to help developers understand unfamiliar code[cite: 1, 2].
-*   **LikhAI:** An AI-powered handwriting automation platform that generates realistic handwritten assignments and notebooks using a user's personal handwriting style.
-
-### 📊 Machine Learning & Data
-*   **AirPredict NYC:** A production-ready ML application predicting Airbnb listing prices using Linear Regression, Random Forest, and XGBoost, featuring SHAP explainability and KNN recommendations[cite: 1, 2].
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Java, Python, C++, SQL, JavaScript, TypeScript, HTML/CSS[cite: 1, 2]  
-**Frontend:** React, Next.js, HTML/CSS, Tailwind, Bootstrap[cite: 1, 2]  
-**Backend:** Node.js, Express.js, Flask, FastAPI[cite: 1, 2]  
-**Databases:** PostgreSQL, Supabase, MySQL, pgvector[cite: 1, 2]  
-**AI/ML:** RAG Systems, Vector Embeddings, XGBoost, SHAP, OpenCV, PyTorch, TensorFlow, Google Gemini API, OpenAI API[cite: 1, 2]  
-**DevOps & Tools:** Git, GitHub Actions, Docker, Linux, Vercel, Postman, Prisma ORM[cite: 1, 2]
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,react,nextjs,nodejs,express,postgres,supabase,docker,git,linux" alt="Skill Icons" />
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=anshere0&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshere0&layout=compact&theme=tokyonight&hide_border=true&v=1" width="48%" alt="Top Languages" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anshere0&theme=tokyonight&hide_border=true&v=1" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshere0&theme=tokyo-night&hide_border=true&v=1" width="48%" alt="Activity Graph" />
-
-  <br><br>
-  
-  <h3>🐍 Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshere0/anshere0/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshere0/anshere0/output/github-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anshere0/anshere0/output/github-snake.svg" width="100%">
-  </picture>
-
-</div>
-  <i>Building intelligent software that solves real-world problems through AI, modern engineering, and continuous learning.</i>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
