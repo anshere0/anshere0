@@ -1,373 +1,89 @@
-# Hi, I'm Ansh Arora
-
-<p align="center">
+<div align="center">
   <img src="github-header-banner.png" alt="Ansh Arora Banner" width="100%" />
-</p>
 
-<h3 align="center">
-AI Engineer • Full-Stack Developer • Machine Learning Enthusiast
-</h3>
+  <h3>AI Engineer • Full-Stack Developer • Machine Learning Enthusiast</h3>
 
-<p align="center">
-  <a href="mailto:ansharora19102006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/ansh-arora-97490431b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/anshere0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=anshere0&style=flat-square&color=0e75b6">
-</p>
+  <p>
+    <a href="mailto:ansharora19102006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://www.linkedin.com/in/ansh-arora-97490431b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://github.com/anshere0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+    <img src="https://komarev.com/ghpvc/?username=anshere0&style=flat-square&color=0e75b6" alt="Profile Views">
+  </p>
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning** at **VIT Bhopal University**.
+I am a B.Tech Computer Science Engineering undergraduate specializing in **Artificial Intelligence & Machine Learning** at **Vellore Institute of Technology, Bhopal** (2024 – 2028)[cite: 1, 2]. 
 
-I enjoy building production-ready AI products that combine modern software engineering with machine learning. My work spans full-stack web applications, retrieval-augmented generation (RAG), developer tools, automation platforms, and data-driven systems.
-
-I focus on writing clean, scalable software while continuously improving my understanding of system design, backend architecture, AI, and distributed systems.
+I enjoy building production-ready AI products that combine modern software engineering with machine learning. My work spans full-stack web applications, retrieval-augmented generation (RAG) systems, developer tools, and data-driven architectures[cite: 1, 2]. I focus on writing clean, scalable software while continuously improving my understanding of system design, backend architecture, and distributed systems.
 
 ---
 
-## Currently Building
+## 💼 Experience
 
-### LikhAI
-
-An AI-powered handwriting automation platform designed to generate realistic handwritten assignments using a user's own handwriting style.
-
-**Key Features**
-
-- Personalized handwriting generation
-- Multi-page notebook rendering
-- PDF export
-- Assignment automation
-- AI-assisted formatting
-- High-resolution handwritten output
-
-**Stack**
-
-`Next.js` • `TypeScript` • `Python` • `OpenCV` • `Supabase` • `Vercel`
+*   **Machine Learning Engineering Intern** at *FlyRank AI* (Jul 2026 – Aug 2026): Contributing to AI/ML model development, data pipelines, and production machine learning features[cite: 1, 2].
+*   **Web Developer Intern** at *Webyou Technologies* (May 2026 – Jul 2026): Built responsive web applications and supported senior developers in implementing frontend and backend features[cite: 1, 2].
+*   **Artificial Intelligence Intern** at *Navodita Infotech* (May 2025 – Jun 2025): Worked on AI-driven tasks involving data handling, model exploration, and applied machine learning[cite: 1, 2].
+*   **Writer & Content Creator** at *Kraaft Entertainment* (Jan 2025 – Present): Produced technical and non-technical content for digital platforms[cite: 1, 2].
 
 ---
 
-### GridGuard AI
+## 🚀 Featured Projects
 
-An AI-powered incident investigation and Root Cause Analysis platform built for engineering and DevOps teams.
+### 🧠 Enterprise AI & RAG Platforms
+*   **RAGForge:** A multi-tenant RAG SaaS platform enabling businesses to deploy branded AI chatbots grounded in their own documents (PDF/DOCX/TXT) using pgvector and the Gemini API[cite: 1, 2].
+*   **RCA Copilot:** An AI-powered incident investigation platform that generates structured Root Cause Analysis reports in under 30 seconds from raw logs and descriptions, featuring blast radius analysis[cite: 1, 2].
 
-**Key Features**
+### ⚙️ Developer Tools & Automation
+*   **CI/CD AI Pipeline:** An intelligent CI/CD system that captures GitHub webhook failures, generates auto-fixes using Gemini API, tests them in Docker, and automatically opens Pull Requests[cite: 1, 2].
+*   **StackSensei:** An AI codebase analysis platform supporting natural language prompts, file uploads, and direct GitHub URLs to help developers understand unfamiliar code[cite: 1, 2].
+*   **LikhAI:** An AI-powered handwriting automation platform that generates realistic handwritten assignments and notebooks using a user's personal handwriting style.
 
-- AI-powered incident analysis
-- Root cause identification
-- Timeline reconstruction
-- Blast radius analysis
-- Automated remediation suggestions
-- Executive RCA reports
-- Production-ready dashboard
-
-**Stack**
-
-`Next.js` • `Node.js` • `Express` • `PostgreSQL` • `Prisma` • `Docker` • `OpenAI` • `Gemini`
+### 📊 Machine Learning & Data
+*   **AirPredict NYC:** A production-ready ML application predicting Airbnb listing prices using Linear Regression, Random Forest, and XGBoost, featuring SHAP explainability and KNN recommendations[cite: 1, 2].
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-### RAGForge
+**Languages:** Java, Python, C++, SQL, JavaScript, TypeScript, HTML/CSS[cite: 1, 2]  
+**Frontend:** React, Next.js, HTML/CSS, Tailwind, Bootstrap[cite: 1, 2]  
+**Backend:** Node.js, Express.js, Flask, FastAPI[cite: 1, 2]  
+**Databases:** PostgreSQL, Supabase, MySQL, pgvector[cite: 1, 2]  
+**AI/ML:** RAG Systems, Vector Embeddings, XGBoost, SHAP, OpenCV, PyTorch, TensorFlow, Google Gemini API, OpenAI API[cite: 1, 2]  
+**DevOps & Tools:** Git, GitHub Actions, Docker, Linux, Vercel, Postman, Prisma ORM[cite: 1, 2]
 
-Enterprise-grade multi-tenant Retrieval-Augmented Generation platform enabling businesses to deploy branded AI assistants trained on their own documentation.
-
-**Highlights**
-
-- Multi-tenant architecture
-- Document ingestion pipeline
-- PDF/DOCX/TXT support
-- Website crawling
-- Vector search using pgvector
-- AI chatbot widget
-- Analytics dashboard
-- Admin & client portals
-
-**Tech**
-
-Next.js • TypeScript • Supabase • PostgreSQL • pgvector • Gemini API
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,react,nextjs,nodejs,express,postgres,supabase,docker,git,linux" alt="Skill Icons" />
+</div>
 
 ---
 
-### RCA Copilot
+## 📈 GitHub Analytics & Activity
 
-AI-powered Root Cause Analysis platform that converts logs and incident reports into structured RCA reports within seconds.
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=anshere0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshere0&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 
-**Highlights**
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anshere0&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshere0&theme=tokyo-night&hide_border=true" width="48%" alt="Activity Graph" />
 
-- AI incident investigation
-- Timeline reconstruction
-- Blast radius analysis
-- Confidence scoring
-- Historical incident tracking
+  <br><br>
+  
+  <h3>🐍 Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshere0/anshere0/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshere0/anshere0/output/github-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anshere0/anshere0/output/github-snake.svg" width="100%">
+  </picture>
 
----
-
-### StackSensei
-
-AI platform for understanding unfamiliar codebases.
-
-**Features**
-
-- GitHub repository analysis
-- Repository documentation
-- AI chat over code
-- Beginner, developer and business explanations
-- File upload support
+</div>
 
 ---
 
-### AirPredict NYC
-
-Machine Learning application predicting Airbnb listing prices using ensemble models with explainable AI.
-
-**Highlights**
-
-- XGBoost
-- Random Forest
-- SHAP Explainability
-- KNN Recommendation Engine
-- Interactive dashboards
-
----
-
-### AI CI/CD Pipeline
-
-Intelligent CI/CD system capable of detecting GitHub workflow failures, generating AI-assisted fixes, validating them inside Docker, and automatically creating Pull Requests.
-
----
-
-## Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,html,css,sql,bash"/>
-</p>
-
----
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap"/>
-</p>
-
----
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask"/>
-</p>
-
----
-
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase"/>
-</p>
-
-**Also experienced with**
-
-- pgvector
-- Prisma ORM
-
----
-
-### AI / Machine Learning
-
-<p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=openai,gemini,pytorch,tensorflow,sklearn,pandas,numpy,opencv"/>
-
-</p>
-
-Experience with
-
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- Vector Embeddings
-- Feature Engineering
-- Explainable AI (SHAP)
-- XGBoost
-- Model Evaluation
-- Data Analysis
-- OCR
-- AI Automation
-
----
-
-### DevOps & Cloud
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,vercel,postman"/>
-</p>
-
----
-
-### Developer Tools
-
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,figma,excel,prisma"/>
-
-</p>
-
----
-
-## Experience
-
-### Machine Learning Engineering Intern
-
-**FlyRank AI**
-
-Working on AI/ML systems, production-ready machine learning pipelines, and intelligent data processing.
-
----
-
-### Web Development Intern
-
-**Webyou Technologies**
-
-Developed responsive web applications while collaborating on frontend and backend implementations.
-
----
-
-### Artificial Intelligence Intern
-
-**Navodita Infotech**
-
-Worked on AI-based applications involving data processing, machine learning experimentation, and automation.
-
----
-
-## Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Full-Stack Development
-- Backend Engineering
-- Retrieval-Augmented Generation
-- Developer Tools
-- System Design
-- DevOps
-- Automation
-- AI Agents
-
----
-
-## 2026 Roadmap
-
-- Build production-grade AI SaaS products
-- Master System Design
-- Solve 500+ DSA problems
-- Learn Kubernetes & Cloud Infrastructure
-- Contribute consistently to Open Source
-- Build scalable backend architectures
-- Publish high-quality technical content
-
----
-
-## GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshere0&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshere0&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anshere0&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshere0&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anshere0&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/anshere0/anshere0/output/github-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/anshere0/anshere0/output/github-snake.svg">
-
-<img alt="Contribution Snake"
-src="https://raw.githubusercontent.com/anshere0/anshere0/output/github-snake.svg">
-
-</picture>
-
-</p>
-
----
-
-## Selected Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,ts,react,nextjs,nodejs,express,postgres,supabase,docker,git,github,linux"/>
-
-</p>
-
----
-
-## Connect
-
-<p align="center">
-
-<a href="mailto:ansharora19102006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/ansh-arora-97490431b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/anshere0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-> *Building intelligent software that solves real-world problems through AI, modern engineering, and continuous learning.*
-
-</p>
+<div align="center">
+  <i>Building intelligent software that solves real-world problems through AI, modern engineering, and continuous learning.</i>
+</div>
