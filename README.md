@@ -61,15 +61,13 @@ I enjoy building production-ready AI products that combine modern software engin
 
 ---
 
-## 📈 GitHub Analytics & Activity
-
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=anshere0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshere0&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshere0&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshere0&layout=compact&theme=tokyonight&hide_border=true&v=1" width="48%" alt="Top Languages" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anshere0&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshere0&theme=tokyo-night&hide_border=true" width="48%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anshere0&theme=tokyonight&hide_border=true&v=1" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshere0&theme=tokyo-night&hide_border=true&v=1" width="48%" alt="Activity Graph" />
 
   <br><br>
   
@@ -81,9 +79,5 @@ I enjoy building production-ready AI products that combine modern software engin
   </picture>
 
 </div>
-
----
-
-<div align="center">
   <i>Building intelligent software that solves real-world problems through AI, modern engineering, and continuous learning.</i>
 </div>
