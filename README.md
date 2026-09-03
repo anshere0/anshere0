@@ -181,6 +181,20 @@ Production-ready ML app predicting NYC Airbnb prices using ensemble models with 
 
 <br/>
 
+## 📅 Daily Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/6C63FF/anshere0" alt="Ansh's GitHub Contribution Calendar" width="90%"/>
+
+<br/>
+
+> 🟩 *The greener the square, the more commits that day — consistency is the key!*
+
+</div>
+
+<br/>
+
 ## 📈 Contribution Graph
 
 <div align="center">
